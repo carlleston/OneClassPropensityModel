@@ -3,6 +3,8 @@ OneClassPropensityModel
 
 final paper using one-class for propension modelling
 
+the dataset.csv is available in https://www.kaggle.com/competitions/santander-customer-satisfaction
+
 Project Organization
 ------------
 
