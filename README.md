@@ -1,7 +1,7 @@
-oneclass_propension
+OneClassPropensityModel
 ==============================
 
-tcc using one-class for propension modelling
+final paper using one-class for propension modelling
 
 Project Organization
 ------------
